@@ -26,7 +26,6 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/soldevweb)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/soldevweb)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/soldevweb)
-[![Spring](https://spring.io/img/og-spring.png)](https://github.com/soldevweb)
 
 
 ### OS
